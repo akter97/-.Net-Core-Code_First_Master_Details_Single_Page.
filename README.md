@@ -1,0 +1,1 @@
+# -.Net-Core-Code_First_Master_Details_Single_Page.
